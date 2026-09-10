@@ -1,0 +1,15 @@
+# Plant_Community_Analysis.ipynb — Python dependencies
+# Install:  pip install -r requirements.txt
+# Then run: jupyter nbconvert --to notebook --execute --inplace Plant_Community_Analysis.ipynb
+
+pandas>=2.0
+numpy>=1.24
+scipy>=1.11
+scikit-bio>=0.6.0     # provides skbio.stats.distance (permanova, permdisp) and skbio.stats.ordination (pcoa)
+matplotlib>=3.7
+seaborn>=0.13
+openpyxl>=3.1         # reading the .xlsx plot workbook
+
+# To run the notebook itself
+jupyter>=1.0
+nbconvert>=7.0

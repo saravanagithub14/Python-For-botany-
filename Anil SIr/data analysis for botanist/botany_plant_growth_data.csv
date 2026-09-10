@@ -1,0 +1,153 @@
+Plant_ID,Species,Treatment,Site,Soil_Type,Sampling_Date,Light_Hours,Water_ml_per_day,Soil_pH,Leaf_Length_cm,Leaf_Width_cm,Plant_Height_cm,Chlorophyll_Index,Flower_Count,Biomass_g,Health_Status
+P001,Arabidopsis thaliana,Control,Greenhouse B,Loam,2026-06-26,12.9,256.8,6.18,3.8,1.5,21.9,33.8,8,7.3,Healthy
+P002,Phaseolus vulgaris,Low Nitrogen,Greenhouse B,Clay Loam,2026-06-14,10.0,202.7,7.49,7.2,5.4,43.8,37.7,6,33.7,Moderate
+P003,Arabidopsis thaliana,Low Nitrogen,Greenhouse B,Sandy Loam,2026-06-25,8.8,213.9,6.53,3.4,1.5,19.8,32.0,11,6.8,Moderate
+P004,Arabidopsis thaliana,Control,Greenhouse A,Sandy Loam,2026-07-05,13.4,219.3,6.52,4.6,2.0,26.6,36.4,12,8.2,Healthy
+P005,Arabidopsis thaliana,High Nitrogen,Greenhouse A,Clay Loam,2026-06-05,9.6,268.0,5.61,4.3,1.9,24.1,36.4,10,8.6,Healthy
+P006,Solanum lycopersicum,Low Nitrogen,Greenhouse A,Loam,2026-06-18,12.2,301.9,6.3,10.2,6.6,66.0,43.3,7,63.0,Moderate
+P007,Ocimum basilicum,High Nitrogen,Field Plot 1,Sandy Loam,2026-06-21,8.9,269.5,6.23,7.6,4.4,46.7,43.3,6,33.8,Healthy
+P008,Zea mays,High Nitrogen,Greenhouse B,Sandy Loam,2026-07-05,9.1,258.1,6.31,47.0,6.0,114.7,51.1,2,97.0,Healthy
+P009,Solanum lycopersicum,Control,Greenhouse B,Loam,2026-06-26,11.6,190.6,6.85,11.5,7.9,75.1,49.1,10,65.9,Healthy
+P010,Ocimum basilicum,Low Nitrogen,Greenhouse A,Clay Loam,2026-07-10,13.7,236.3,6.31,6.7,3.6,38.3,,7,24.7,Moderate
+P011,Ocimum basilicum,Control,Field Plot 1,Loam,2026-07-25,11.4,274.8,7.29,6.6,3.9,40.8,42.3,7,25.7,Healthy
+P012,Ocimum basilicum,Drought,Field Plot 1,Clay Loam,2026-07-14,10.9,137.8,6.97,5.4,2.9,31.1,42.1,4,18.9,Stressed
+P013,Arabidopsis thaliana,High Nitrogen,Greenhouse A,Clay Loam,2026-06-17,11.1,271.8,6.38,5.2,2.0,28.1,33.9,12,9.8,Healthy
+P014,Phaseolus vulgaris,High Nitrogen,Greenhouse A,Sandy Loam,2026-06-13,10.8,256.8,6.33,9.8,7.0,57.1,43.8,8,49.9,Healthy
+P015,Arabidopsis thaliana,Low Nitrogen,Greenhouse B,Loam,2026-06-07,11.5,250.1,6.15,3.0,1.4,18.1,30.6,9,6.5,Moderate
+P016,Phaseolus vulgaris,Drought,Greenhouse A,Loam,2026-07-29,11.4,128.3,7.05,6.3,4.3,37.1,43.4,4,34.3,Stressed
+P017,Solanum lycopersicum,Low Nitrogen,Field Plot 1,Clay Loam,2026-08-07,9.0,234.8,6.72,8.8,5.0,53.0,40.4,6,43.6,Moderate
+P018,Ocimum basilicum,Control,Field Plot 1,Loam,2026-06-06,10.8,266.3,6.46,6.7,3.5,37.1,44.2,6,25.1,Healthy
+P019,Phaseolus vulgaris,Control,Field Plot 1,Clay Loam,2026-06-10,10.0,230.0,6.55,8.8,6.2,52.8,44.8,8,43.3,Healthy
+P020,Arabidopsis thaliana,Low Nitrogen,Field Plot 1,Loam,2026-08-09,11.4,287.1,6.74,3.4,1.4,18.1,32.2,7,5.9,Moderate
+P021,Solanum lycopersicum,High Nitrogen,Field Plot 1,Clay Loam,2026-06-27,10.6,316.0,,13.8,8.6,91.0,44.8,10,85.0,Healthy
+P022,Solanum lycopersicum,Control,Field Plot 1,Sandy Loam,2026-06-17,9.4,285.1,6.59,11.8,8.0,78.3,48.9,9,64.4,Healthy
+P023,Solanum lycopersicum,Control,Greenhouse B,Clay Loam,2026-06-06,8.6,241.2,7.43,10.5,6.4,68.6,46.3,8,64.1,Healthy
+P024,Solanum lycopersicum,Low Nitrogen,Greenhouse A,Sandy Loam,2026-07-01,10.8,288.9,6.93,9.2,5.8,55.1,40.9,6,52.4,Moderate
+P025,Ocimum basilicum,Drought,Greenhouse A,Sandy Loam,2026-06-05,10.9,160.3,6.09,5.4,3.0,30.2,40.8,4,21.5,Stressed
+P026,Zea mays,Control,Greenhouse B,Sandy Loam,2026-07-06,9.6,300.2,7.35,37.1,4.6,97.7,49.0,2,99.1,Healthy
+P027,Solanum lycopersicum,High Nitrogen,Greenhouse B,Clay Loam,2026-07-11,10.3,300.8,6.81,13.7,9.5,89.2,45.7,11,74.6,Healthy
+P028,Zea mays,High Nitrogen,Field Plot 1,Loam,2026-06-26,9.0,265.4,6.99,46.8,5.1,111.7,52.6,2,105.1,Healthy
+P029,Solanum lycopersicum,Low Nitrogen,Field Plot 1,Sandy Loam,2026-07-19,9.0,223.6,7.28,9.1,5.4,55.6,42.3,6,51.9,Moderate
+P030,Ocimum basilicum,High Nitrogen,Greenhouse B,Sandy Loam,2026-06-28,10.5,307.9,6.6,7.3,4.1,43.0,42.8,7,28.4,Healthy
+P031,Phaseolus vulgaris,Low Nitrogen,Field Plot 1,Loam,2026-06-06,9.5,238.9,6.28,7.4,4.8,40.2,37.8,4,35.8,Moderate
+P032,Ocimum basilicum,Drought,Field Plot 1,Loam,2026-06-14,7.5,90.2,6.86,4.7,,26.5,41.5,5,16.1,Stressed
+P033,Zea mays,Control,Field Plot 1,Clay Loam,2026-07-27,10.9,218.9,6.8,42.0,5.1,103.8,50.4,2,92.5,Healthy
+P034,Phaseolus vulgaris,Drought,Field Plot 1,Sandy Loam,2026-08-06,11.4,113.7,6.1,7.7,5.3,43.0,42.7,6,33.4,Stressed
+P035,Zea mays,High Nitrogen,Greenhouse B,Sandy Loam,2026-07-23,11.1,288.1,6.55,50.1,6.1,129.7,51.2,2,126.9,Healthy
+P036,Solanum lycopersicum,Low Nitrogen,Greenhouse B,Loam,2026-06-01,10.9,271.7,7.05,10.4,6.6,64.3,43.1,7,63.1,Moderate
+P037,Solanum lycopersicum,Control,Greenhouse B,Sandy Loam,2026-06-22,9.9,210.4,6.9,11.1,7.1,71.4,46.4,10,68.6,Healthy
+P038,Zea mays,Drought,Field Plot 1,Clay Loam,2026-07-19,12.0,69.2,6.68,32.2,4.3,84.8,47.8,1,78.3,Stressed
+P039,Solanum lycopersicum,Control,Greenhouse B,Sandy Loam,2026-06-09,9.0,251.7,6.61,10.3,6.3,68.0,47.2,8,70.3,Healthy
+P040,Arabidopsis thaliana,High Nitrogen,Greenhouse A,Loam,2026-07-18,11.6,222.8,6.07,4.2,1.7,24.4,36.9,10,8.0,Healthy
+P041,Ocimum basilicum,High Nitrogen,Field Plot 1,Clay Loam,2026-06-10,12.3,304.8,6.81,7.0,4.1,41.8,44.3,7,27.2,Healthy
+P042,Phaseolus vulgaris,High Nitrogen,Field Plot 1,Loam,2026-07-25,12.6,267.4,7.06,11.8,7.9,67.4,46.6,8,59.6,Healthy
+P043,Solanum lycopersicum,Control,Field Plot 1,Sandy Loam,2026-07-05,10.6,276.0,6.12,12.0,7.1,71.0,45.0,9,60.4,Healthy
+P044,Phaseolus vulgaris,Drought,Field Plot 1,Sandy Loam,2026-07-30,7.8,121.6,6.78,6.3,4.5,37.2,46.3,5,29.2,Stressed
+P045,Phaseolus vulgaris,High Nitrogen,Greenhouse B,Sandy Loam,2026-06-25,11.0,318.0,6.73,11.1,8.6,65.9,45.1,7,51.6,Healthy
+P046,Arabidopsis thaliana,Control,Greenhouse B,Sandy Loam,2026-07-02,9.5,265.7,6.49,4.0,1.7,22.4,33.0,10,7.1,Healthy
+P047,Solanum lycopersicum,High Nitrogen,Greenhouse B,Sandy Loam,2026-08-08,10.0,248.3,7.17,12.1,7.4,76.2,45.5,9,74.1,Healthy
+P048,Ocimum basilicum,Control,Field Plot 1,Sandy Loam,2026-07-09,10.2,249.3,7.19,6.9,4.1,39.9,,6,25.3,Healthy
+P049,Arabidopsis thaliana,High Nitrogen,Greenhouse A,Sandy Loam,2026-07-14,10.6,278.0,6.32,4.8,1.9,26.3,33.0,12,8.3,Healthy
+P050,Ocimum basilicum,Drought,Greenhouse B,Sandy Loam,2026-06-11,10.9,177.9,6.71,5.0,2.8,28.9,40.2,5,20.7,Stressed
+P051,Ocimum basilicum,Control,Greenhouse B,Clay Loam,2026-06-13,9.3,221.4,6.67,7.0,4.0,41.8,41.6,5,28.3,Healthy
+P052,Ocimum basilicum,High Nitrogen,Greenhouse B,Clay Loam,2026-07-07,11.5,245.9,6.76,7.5,4.3,46.0,43.0,6,30.4,Healthy
+P053,Solanum lycopersicum,High Nitrogen,Greenhouse B,Loam,2026-06-19,7.4,248.2,6.75,13.3,7.7,78.2,47.3,11,74.8,Healthy
+P054,Arabidopsis thaliana,Control,Greenhouse B,Clay Loam,2026-08-03,10.5,216.0,6.02,3.5,1.6,21.3,35.8,10,7.8,Healthy
+P055,Zea mays,Control,Greenhouse A,Sandy Loam,2026-06-06,8.5,246.7,6.92,46.0,5.4,107.7,47.1,2,106.8,Healthy
+P056,Ocimum basilicum,Low Nitrogen,Field Plot 1,Sandy Loam,2026-06-14,11.3,252.9,6.46,6.0,3.3,34.3,35.1,5,22.0,Moderate
+P057,Ocimum basilicum,Control,Field Plot 1,Sandy Loam,2026-06-01,14,235.7,6.82,7.1,4.0,42.6,44.4,7,27.7,Healthy
+P058,Phaseolus vulgaris,Low Nitrogen,Greenhouse A,Loam,2026-08-02,8.4,220.9,6.53,7.4,5.0,43.2,37.6,5,32.6,Moderate
+P059,Arabidopsis thaliana,Control,Field Plot 1,Clay Loam,2026-06-20,8.3,262.0,6.57,3.6,1.7,21.3,33.4,11,7.8,Healthy
+P060,Zea mays,Drought,Greenhouse B,Clay Loam,2026-06-18,10.1,123.9,6.15,31.8,3.8,78.4,47.9,1,67.6,Stressed
+P061,Arabidopsis thaliana,Control,Greenhouse B,Sandy Loam,2026-07-15,9.8,277.3,6.76,3.8,1.7,21.3,35.0,10,6.5,Healthy
+P062,Solanum lycopersicum,High Nitrogen,Field Plot 1,Sandy Loam,2026-07-31,9.2,251.6,6.71,12.3,7.6,74.9,45.5,7,73.7,Healthy
+P063,Zea mays,Low Nitrogen,Field Plot 1,Clay Loam,2026-06-19,10.3,279.0,7.12,38.4,4.6,89.6,43.7,1,84.1,Moderate
+P064,Zea mays,Drought,Greenhouse A,Loam,2026-07-19,6.6,126.8,6.83,28.9,3.5,69.2,52.1,1,70.0,Stressed
+P065,Solanum lycopersicum,High Nitrogen,Greenhouse B,Clay Loam,2026-07-27,10.6,279.2,5.91,14.6,8.7,88.3,44.7,12,84.1,Healthy
+P066,Ocimum basilicum,High Nitrogen,Greenhouse A,Loam,2026-06-23,10.3,228.7,,7.3,3.9,42.9,41.6,6,29.9,Healthy
+P067,Arabidopsis thaliana,High Nitrogen,Greenhouse B,Clay Loam,2026-08-09,8.9,258.0,6.32,4.4,1.9,25.1,36.7,11,8.3,Healthy
+P068,Ocimum basilicum,Control,Greenhouse B,Clay Loam,2026-07-19,9.3,240.9,7.7,6.3,3.4,36.8,44.5,5,26.6,Healthy
+P069,Phaseolus vulgaris,Low Nitrogen,Greenhouse B,Clay Loam,2026-07-07,14,230.6,6.4,8.9,6.4,50.2,36.6,7,42.6,Moderate
+P070,Ocimum basilicum,High Nitrogen,Greenhouse B,Loam,2026-06-06,9.1,253.2,6.13,7.7,4.3,43.8,43.7,8,30.1,Healthy
+P071,Solanum lycopersicum,High Nitrogen,Greenhouse A,Clay Loam,2026-07-05,11.1,261.2,6.94,12.4,8.4,81.0,49.1,10,72.4,Healthy
+P072,Ocimum basilicum,Control,Greenhouse B,Sandy Loam,2026-07-21,10.5,238.0,6.19,6.6,3.3,36.4,44.4,6,26.4,Healthy
+P073,Phaseolus vulgaris,Low Nitrogen,Greenhouse B,Loam,2026-07-12,11.3,248.8,6.09,7.3,5.4,43.0,38.1,6,37.1,Moderate
+P074,Phaseolus vulgaris,Control,Greenhouse A,Clay Loam,2026-06-13,12.0,280.6,5.72,8.9,,52.2,46.4,7,41.2,Healthy
+P075,Ocimum basilicum,Drought,Greenhouse A,Sandy Loam,2026-07-23,11.1,84.3,6.55,5.1,2.6,29.0,41.6,5,17.5,Stressed
+P076,Solanum lycopersicum,Control,Greenhouse B,Loam,2026-07-21,7.1,189.7,6.98,10.7,7.2,70.5,47.3,8,72.5,Healthy
+P077,Solanum lycopersicum,Control,Greenhouse A,Sandy Loam,2026-08-10,11.1,264.5,5.83,10.3,7.0,65.7,48.6,9,56.3,Healthy
+P078,Ocimum basilicum,High Nitrogen,Greenhouse A,Sandy Loam,2026-06-15,10.9,218.9,5.82,7.3,4.5,44.1,44.5,8,29.7,Healthy
+P079,Arabidopsis thaliana,Control,Greenhouse B,Loam,2026-07-28,10.4,246.2,6.58,3.7,1.6,22.5,34.8,11,7.3,Healthy
+P080,Phaseolus vulgaris,Control,Field Plot 1,Loam,2026-07-25,10.0,263.0,5.63,8.9,6.7,52.9,41.5,8,49.0,Healthy
+P081,Arabidopsis thaliana,Low Nitrogen,Greenhouse B,Loam,2026-08-04,9.7,267.8,6.74,3.3,1.4,18.6,30.4,8,6.4,Moderate
+P082,Phaseolus vulgaris,Low Nitrogen,Field Plot 1,Loam,2026-07-29,11.8,260.4,6.08,8.6,5.7,48.2,38.5,6,37.3,Moderate
+P083,Zea mays,Low Nitrogen,Greenhouse A,Sandy Loam,2026-06-17,11.5,216.9,6.42,39.3,5.3,103.0,41.9,2,86.7,Moderate
+P084,Phaseolus vulgaris,Control,Field Plot 1,Clay Loam,2026-07-10,10.1,260.2,6.8,9.2,6.7,52.3,45.9,8,45.6,Healthy
+P085,Solanum lycopersicum,Control,Field Plot 1,Loam,2026-06-04,11.9,266.2,6.84,11.6,7.4,76.5,45.5,10,69.5,Healthy
+P086,Phaseolus vulgaris,Drought,Field Plot 1,Sandy Loam,2026-06-09,11.7,101.0,6.67,7.9,5.2,43.0,42.3,6,32.6,Stressed
+P087,Ocimum basilicum,High Nitrogen,Greenhouse A,Loam,2026-06-21,9.5,269.6,6.24,7.4,4.2,42.1,42.3,5,25.2,Healthy
+P088,Phaseolus vulgaris,Control,Greenhouse A,Sandy Loam,2026-08-02,9.0,261.0,6.77,9.1,6.4,53.6,44.1,6,42.7,Healthy
+P089,Phaseolus vulgaris,High Nitrogen,Greenhouse A,Loam,2026-06-23,11.7,243.2,6.98,9.6,7.0,58.4,,8,42.6,Healthy
+P090,Ocimum basilicum,Low Nitrogen,Field Plot 1,Loam,2026-07-11,7.7,251.0,6.6,5.2,3.2,32.4,34.9,6,19.1,Moderate
+P091,Phaseolus vulgaris,Low Nitrogen,Greenhouse B,Clay Loam,2026-06-14,9.5,236.8,5.63,7.1,4.8,38.8,39.6,5,31.0,Moderate
+P092,Ocimum basilicum,Low Nitrogen,Greenhouse B,Clay Loam,2026-06-25,13.2,286.6,7.03,5.9,3.5,35.6,35.1,6,24.5,Moderate
+P093,Solanum lycopersicum,Low Nitrogen,Field Plot 1,Loam,2026-07-28,11.3,251.2,6.8,10.6,6.2,64.5,42.7,9,59.5,Moderate
+P094,Phaseolus vulgaris,High Nitrogen,Field Plot 1,Sandy Loam,2026-08-04,11.9,302.1,6.12,9.5,7.2,58.4,43.0,6,45.8,Healthy
+P095,Arabidopsis thaliana,Control,Greenhouse B,Loam,2026-06-06,11.5,294.2,7.4,4.2,1.8,23.6,34.8,13,8.0,Healthy
+P096,Zea mays,Drought,Field Plot 1,Clay Loam,2026-06-11,11.3,143.2,7.17,34.2,3.9,79.0,51.9,2,79.6,Stressed
+P097,Phaseolus vulgaris,High Nitrogen,Greenhouse A,Loam,2026-07-13,6.1,249.8,5.99,9.4,6.3,51.7,45.4,5,44.6,Healthy
+P098,Arabidopsis thaliana,Control,Field Plot 1,Clay Loam,2026-07-15,9.6,244.8,6.82,4.4,1.8,23.5,33.5,12,7.1,Healthy
+P099,Solanum lycopersicum,Drought,Field Plot 1,Clay Loam,2026-08-07,11.8,93.8,6.96,8.8,5.5,52.5,48.0,7,52.3,Stressed
+P100,Arabidopsis thaliana,High Nitrogen,Greenhouse B,Clay Loam,2026-06-10,9.6,261.8,6.93,3.8,1.8,22.8,34.9,9,7.1,Healthy
+P101,Solanum lycopersicum,Drought,Greenhouse A,Clay Loam,2026-06-22,7.7,126.2,6.69,7.9,4.5,47.7,46.3,7,40.5,Stressed
+P102,Zea mays,Control,Greenhouse B,Clay Loam,2026-07-31,9.7,245.4,5.43,43.8,5.3,103.9,48.4,2,90.8,Healthy
+P103,Ocimum basilicum,Low Nitrogen,Field Plot 1,Sandy Loam,2026-07-18,10.8,230.2,6.19,6.4,3.5,35.6,35.4,6,22.3,Moderate
+P104,Phaseolus vulgaris,Drought,Field Plot 1,Clay Loam,2026-06-29,11.2,140.7,6.3,7.1,5.6,42.4,42.1,7,34.6,Stressed
+P105,Zea mays,Drought,Greenhouse A,Sandy Loam,2026-06-18,11.1,147.9,6.73,30.2,4.1,79.5,52.0,1,76.8,Stressed
+P106,Arabidopsis thaliana,Control,Greenhouse B,Clay Loam,2026-08-07,11.7,330.4,5.94,4.0,1.8,22.6,33.0,9,7.0,Healthy
+P107,Zea mays,Control,Greenhouse B,Loam,2026-07-01,10.9,247.5,5.9,41.7,5.6,108.3,50.6,2,89.2,Healthy
+P108,Ocimum basilicum,Control,Greenhouse A,Clay Loam,2026-08-04,9.3,271.4,7.07,6.1,3.3,35.0,41.3,6,25.9,Healthy
+P109,Phaseolus vulgaris,Control,Greenhouse B,Loam,2026-07-13,7.3,203.7,6.6,9.1,6.9,53.7,44.7,8,47.3,Healthy
+P110,Ocimum basilicum,Control,Field Plot 1,Sandy Loam,2026-07-29,10.9,254.5,,7.3,4.2,42.6,42.7,6,30.5,Healthy
+P111,Arabidopsis thaliana,Control,Greenhouse A,Loam,2026-06-07,9.6,266.4,6.43,4.2,1.7,23.8,35.6,13,7.5,Healthy
+P112,Solanum lycopersicum,Control,Greenhouse B,Sandy Loam,2026-08-06,12.4,273.4,6.13,13.0,8.8,82.5,47.0,12,76.1,Healthy
+P113,Solanum lycopersicum,Drought,Field Plot 1,Sandy Loam,2026-07-27,11.5,149.9,6.85,7.8,5.3,52.0,45.9,6,49.2,Stressed
+P114,Solanum lycopersicum,Low Nitrogen,Field Plot 1,Sandy Loam,2026-06-21,9.3,221.8,6.28,10.0,5.6,60.2,42.2,7,54.3,Moderate
+P115,Arabidopsis thaliana,Control,Field Plot 1,Clay Loam,2026-07-18,10.1,251.3,7.31,3.6,1.6,20.8,35.4,12,7.2,Healthy
+P116,Zea mays,High Nitrogen,Field Plot 1,Loam,2026-06-16,9.0,287.8,6.52,49.3,5.8,125.7,51.4,2,117.2,Healthy
+P117,Solanum lycopersicum,High Nitrogen,Field Plot 1,Sandy Loam,2026-07-11,12.5,277.6,6.04,12.2,7.5,80.1,45.2,12,77.7,Healthy
+P118,Solanum lycopersicum,High Nitrogen,Field Plot 1,Clay Loam,2026-06-26,10.2,184.8,6.97,12.3,7.7,74.8,45.2,8,66.7,Healthy
+P119,Ocimum basilicum,Control,Greenhouse B,Loam,2026-07-23,12.0,229.1,5.34,6.4,3.2,35.3,41.5,6,24.7,Healthy
+P120,Zea mays,Drought,Greenhouse A,Loam,2026-06-24,12.6,134.5,6.49,35.6,4.1,85.3,52.3,1,84.9,Stressed
+P121,Ocimum basilicum,Low Nitrogen,Greenhouse A,Loam,2026-08-10,10.4,228.8,7.15,5.4,2.8,29.6,36.0,4,17.8,Moderate
+P122,Solanum lycopersicum,Control,Greenhouse B,Clay Loam,2026-06-06,8.8,299.7,6.49,11.4,6.4,67.0,,9,65.1,Healthy
+P123,Arabidopsis thaliana,Control,Field Plot 1,Clay Loam,2026-07-22,11.5,248.4,6.04,3.8,1.6,20.7,35.6,9,6.6,Healthy
+P124,Solanum lycopersicum,Low Nitrogen,Field Plot 1,Loam,2026-07-15,11.3,234.8,6.99,9.4,5.7,59.9,43.2,9,52.9,Moderate
+P125,Zea mays,Control,Greenhouse B,Clay Loam,2026-06-21,10.0,229.7,6.25,40.0,5.0,104.3,49.3,2,99.9,Healthy
+P126,Solanum lycopersicum,Drought,Field Plot 1,Sandy Loam,2026-07-29,10.8,124.1,6.85,9.3,6.1,58.2,47.0,7,48.4,Stressed
+P127,Ocimum basilicum,Control,Greenhouse B,Loam,2026-07-22,11.0,277.8,7.08,6.7,3.9,38.8,41.7,7,28.3,Healthy
+P128,Solanum lycopersicum,Control,Greenhouse A,Clay Loam,2026-06-16,9.2,225.5,6.44,10.9,6.9,69.1,47.3,9,68.8,Healthy
+P129,Ocimum basilicum,Drought,Greenhouse B,Sandy Loam,2026-07-31,9.2,126.3,7.3,4.2,2.4,24.7,39.7,4,15.1,Stressed
+P130,Phaseolus vulgaris,Low Nitrogen,Field Plot 1,Clay Loam,2026-08-05,12.7,234.3,7.4,7.3,5.5,43.3,40.3,6,36.6,Moderate
+P131,Phaseolus vulgaris,Low Nitrogen,Field Plot 1,Sandy Loam,2026-07-04,10.5,245.5,6.49,7.5,5.9,45.0,40.4,6,38.4,Moderate
+P132,Phaseolus vulgaris,High Nitrogen,Field Plot 1,Loam,2026-06-15,9.7,280.5,6.46,11.0,8.1,62.6,42.1,7,54.1,Healthy
+P133,Ocimum basilicum,Control,Greenhouse B,Sandy Loam,2026-07-12,12.4,272.2,5.94,7.9,4.3,43.9,39.8,6,26.7,Healthy
+P134,Zea mays,Low Nitrogen,Greenhouse B,Loam,2026-08-01,8.7,273.0,6.74,36.6,4.5,87.9,45.0,1,87.9,Moderate
+P135,Ocimum basilicum,Drought,Greenhouse B,Clay Loam,2026-07-06,13.9,102.1,7.37,5.4,2.9,30.7,41.9,6,20.7,Stressed
+P136,Solanum lycopersicum,Control,Field Plot 1,Clay Loam,2026-07-15,7.4,245.2,7.46,11.6,7.1,67.8,45.8,9,59.4,Healthy
+P137,Zea mays,High Nitrogen,Field Plot 1,Sandy Loam,2026-06-29,13.2,280.5,6.52,49.9,6.6,129.7,48.4,2,107.9,Healthy
+P138,Ocimum basilicum,Control,Greenhouse B,Sandy Loam,2026-07-31,10.4,281.8,6.4,6.7,4.0,42.2,44.2,8,27.5,Healthy
+P139,Zea mays,High Nitrogen,Greenhouse B,Sandy Loam,2026-06-23,11.0,268.1,6.68,50.5,6.2,120.2,47.2,2,123.4,Healthy
+P140,Arabidopsis thaliana,Drought,Greenhouse B,Sandy Loam,2026-07-13,11.5,83.9,7.29,2.9,1.2,17.2,34.2,10,5.9,Stressed
+P141,Solanum lycopersicum,Low Nitrogen,Field Plot 1,Clay Loam,2026-06-02,10.0,198.2,6.95,9.3,5.5,55.9,42.5,7,53.4,Moderate
+P142,Solanum lycopersicum,High Nitrogen,Field Plot 1,Clay Loam,2026-06-24,10.5,292.1,6.32,15.0,9.3,88.8,47.1,12,73.8,Healthy
+P143,Ocimum basilicum,Low Nitrogen,Greenhouse A,Loam,2026-06-16,11.6,248.8,6.63,5.7,2.9,32.4,37.6,4,22.6,Moderate
+P144,Zea mays,Control,Greenhouse B,Clay Loam,2026-06-29,7.3,188.0,6.58,42.6,5.0,107.7,52.5,2,95.4,Healthy
+P145,Ocimum basilicum,Low Nitrogen,Greenhouse B,Clay Loam,2026-06-11,10.4,274.1,6.3,6.1,3.4,34.2,38.1,6,23.8,Moderate
+P146,Phaseolus vulgaris,Low Nitrogen,Field Plot 1,Sandy Loam,2026-08-06,12.2,197.3,6.87,7.3,5.3,42.3,39.1,5,32.1,Moderate
+P147,Zea mays,Control,Greenhouse A,Clay Loam,2026-06-03,10.2,240.5,5.78,42.9,5.1,105.2,47.3,2,97.2,Healthy
+P148,Zea mays,Control,Greenhouse A,Clay Loam,2026-07-31,10.6,247.0,6.77,45.9,5.4,109.7,47.4,2,111.9,Healthy
+P149,Arabidopsis thaliana,Control,Greenhouse A,Loam,2026-08-09,6.4,256.9,6.31,3.8,1.8,22.3,36.7,11,7.2,Healthy
+P150,Ocimum basilicum,High Nitrogen,Greenhouse B,Loam,2026-08-09,11.3,249.3,7.1,7.8,4.1,44.3,39.5,6,26.1,Healthy
+P015,Arabidopsis thaliana,Low Nitrogen,Greenhouse B,Loam,2026-06-07,11.5,250.1,6.15,3.0,1.4,18.1,30.6,9,6.5,Moderate
+P093,Solanum lycopersicum,Low Nitrogen,Field Plot 1,Loam,2026-07-28,11.3,251.2,6.8,10.6,6.2,64.5,42.7,9,59.5,Moderate
